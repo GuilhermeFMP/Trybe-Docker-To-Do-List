@@ -19,8 +19,8 @@ Aprendi nesse projeto a utilizar Docker e a criar um arquivo Dockerfile.
 Instalação com npm
 
 ```bash
-  git clone git@github.com:GuilhermeFMP/Docker-To-Do-List.git
-  cd Docker-To-Do-List
+  git clone git@github.com:GuilhermeFMP/Trybe-Docker-To-Do-List.git
+  cd Trybe-Docker-To-Do-List
   npm install
 ```
     
